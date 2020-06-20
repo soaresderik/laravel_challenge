@@ -1,0 +1,5 @@
+
+
+-- Docker image credentials local
+name mysql
+pass example
